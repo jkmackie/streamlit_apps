@@ -4,6 +4,6 @@
 import streamlit as st
 
 x = st.slider('Select a value')
-st.write(x, 'cubed is', x**2)
+st.write(x, 'half is', x/2)
 
 
